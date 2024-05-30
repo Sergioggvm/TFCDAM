@@ -1,5 +1,5 @@
-En este repositorio esta la memoria del TFC donde podras ver sobre que consistia el trabajo y su solucion de una manera muy detallada.
+En este repositorio esta la memoria del TFC del grado superior de Desarrollo de aplicaciones multiplataforma donde podras ver sobre que consistia el trabajo y su solucion de una manera muy detallada.
 
-Este TFC fue valorado con una Mencion de Honor en el istitulo Julian Marias de Valladolid.
+Este TFC fue valorado con una Mencion de Honor en el istitulo IES Julian Marias de Valladolid.
 
-Si queire ver la aplicacion vaya al repositorio publico de mi perfil llamado ProyectoHospitalGambia.
+Si quiere ver la aplicacion vaya al repositorio publico de mi perfil llamado ProyectoHospitalGambia.
